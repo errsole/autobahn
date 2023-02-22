@@ -1,6 +1,6 @@
 {
   "name": "@errsole/autobahn",
-  "version": "22.11.1",
+  "version": "22.11.2",
   "description": "An implementation of The Web Application Messaging Protocol (WAMP).",
   "main": "index.js",
   "files": [
